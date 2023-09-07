@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: linear-gradient(to bottom,rgb(167, 4, 167),rgb(230, 4, 230));
+    text-align: center;
+}
+.date{
+    color: white;
+    text-align: center;
+    margin: 10px 0px;
+    direction: rtl;
+}
+.dateVideo{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 90%;
+}
